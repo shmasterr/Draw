@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="Page-1" id="e0b7GQIYkVdAk7aEJ1o5">
-    <mxGraphModel dx="2206" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2738" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -769,9 +769,6 @@
         <mxCell id="FXfElFLc0xuccfjis8Uh-77" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/identity/Users.svg;direction=east;fontFamily=Geologica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGeologica;labelBackgroundColor=#a2d3eb;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="1170" y="520" width="64" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FXfElFLc0xuccfjis8Uh-78" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/identity/Users.svg;direction=east;fontFamily=Geologica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGeologica;labelBackgroundColor=#a2d3eb;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="350" width="64" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="FXfElFLc0xuccfjis8Uh-79" value="Губенкова Л.Л." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/identity/Users.svg;direction=east;fontFamily=Geologica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGeologica;labelBackgroundColor=#a2d3eb;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="510" width="64" height="70" as="geometry" />
         </mxCell>
@@ -796,14 +793,8 @@
         <mxCell id="FXfElFLc0xuccfjis8Uh-88" value="Ермолаева А.Л." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/identity/Users.svg;direction=east;fontFamily=Geologica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGeologica;labelBackgroundColor=#a2d3eb;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="2110" width="64" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FXfElFLc0xuccfjis8Uh-94" value="Грищенко Е.С." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/identity/Users.svg;direction=east;fontFamily=Geologica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGeologica;labelBackgroundColor=#a2d3eb;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="2690" y="1890" width="64" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="FXfElFLc0xuccfjis8Uh-95" value="Халямина А.А." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/identity/Users.svg;direction=east;fontFamily=Geologica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGeologica;labelBackgroundColor=#a2d3eb;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="2710" y="2190" width="64" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="FXfElFLc0xuccfjis8Uh-97" value="Кондеева О.Ю." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/identity/Users.svg;direction=east;fontFamily=Geologica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGeologica;labelBackgroundColor=#a2d3eb;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="2260" y="1880" width="64" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FXfElFLc0xuccfjis8Uh-100" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Help_and_Support.svg;" parent="1" vertex="1">
           <mxGeometry x="1770" y="370" width="56.00000000000001" height="69" as="geometry" />
@@ -1188,6 +1179,12 @@
         </mxCell>
         <mxCell id="FXfElFLc0xuccfjis8Uh-64" value="Козорезов А.В." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/identity/Users.svg;direction=east;fontFamily=Geologica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGeologica;labelBackgroundColor=#a2d3eb;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="880" y="1130" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfElFLc0xuccfjis8Uh-97" value="Кондеева О.Ю." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/identity/Users.svg;direction=east;fontFamily=Geologica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGeologica;labelBackgroundColor=#a2d3eb;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="2260" y="1890" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfElFLc0xuccfjis8Uh-94" value="Грищенко Е.С." style="image;aspect=fixed;html=1;points=[];align=center;fontSize=18;image=img/lib/azure2/identity/Users.svg;direction=east;fontFamily=Geologica;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGeologica;labelBackgroundColor=#a2d3eb;textShadow=0;" parent="1" vertex="1">
+          <mxGeometry x="2693" y="1900" width="64" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
